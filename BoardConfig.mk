@@ -43,7 +43,7 @@ BOARD_HAS_NO_SELECT_BUTTON := true
 BOARD_HAS_MTK := true
 
 TARGET_PREBUILT_KERNEL := device/xiaomi/minote/kernel
-BOARD_CUSTOM_BOOTIMG_MK := device/xiaomi/minote/boot.mk
+BOARD_CUSTOM_BOOTIMG_MK := device/xiaomi/minote/bootimg.mk
 
 TARGET_KMODULES := true
 
