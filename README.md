@@ -1,0 +1,1 @@
+# TWRP_device_tree_Redmi_note_3g-MT6592-
