@@ -10,4 +10,5 @@
 
 --> make clean && make -j# recoveryimage
 
-Note- replace # with your processors core no. (For Example - i have dual core so i use "make clean && make -j2 recoveryimage)
+Note- replace # with your processors core no. 
+(For Example - I have dual core so i use "make clean && make -j2 recoveryimage")
